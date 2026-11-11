@@ -1,0 +1,15 @@
+{
+  "name": "notes-management-oop-ts",
+  "version": "1.0.0",
+  "description": "Simple Notes Management System - TypeScript OOP assignment (inheritance, composition, aggregation, association, generics)",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/main.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.6.3"
+  }
+}
